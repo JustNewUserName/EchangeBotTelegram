@@ -54,7 +54,7 @@ public class ExchangeRatesBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotUsername() {
-        return "zubkov_test_bot";
+        return "";
     }
 
     private void startCommand(Long chatId, String userName) {
